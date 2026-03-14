@@ -58,25 +58,6 @@ Os dados dos produtos são obtidos através da API pública:
 
 ---
 
-# 📸 Prints do Aplicativo
-
-### Tela de Login
-
-
----
-
-### Tela de Produtos
-
-(INSERIR PRINT AQUI)
-
----
-
-### Tela de Detalhes do Produto
-
-(INSERIR PRINT AQUI)
-
----
-
 # ⚙️ Como Executar o Projeto
 
 Clone o repositório:
